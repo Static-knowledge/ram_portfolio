@@ -13,12 +13,12 @@ export const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "E-Commerce MERN Platform",
-      description: "Full-featured e-commerce platform with user authentication, payment integration, admin dashboard, and real-time inventory management.",
+      title: "Employee Management System",
+      description: "Full-featured e-commerce platform with user authentication, admin dashboard, and real-time Employee management.",
       image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=800",
       technologies: ["React.js", "Node.js", "MongoDB", "Express.js", "Stripe", "JWT"],
       category: "fullstack",
-      demoUrl: "https://demo-ecommerce.vercel.app",
+      demoUrl: "/NotFound",
       githubUrl: "https://github.com/ramprakash/ecommerce-mern",
       features: ["User Authentication", "Payment Gateway", "Admin Panel", "Order Tracking"],
       status: "completed"
