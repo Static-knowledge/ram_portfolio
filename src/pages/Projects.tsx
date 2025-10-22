@@ -30,7 +30,7 @@ export const Projects = () => {
       image: "https://i.imgur.com/k1FPAs2.png",
       technologies: ["React.js", "Three.js", "Framer Motion", "Tailwind CSS", "TypeScript"],
       category: "frontend",
-      demoUrl: "https://ramprakash-portfolio.vercel.app",
+      demoUrl: "https://ram-portfolio-psi.vercel.app/",
       githubUrl: "https://github.com/ramprakash/portfolio-v2",
       features: ["3D Animations", "Dark/Light Mode", "Responsive Design", "Contact Form"],
       status: "completed"
