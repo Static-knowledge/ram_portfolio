@@ -75,8 +75,8 @@ export const About = () => {
   ];
 
   const personalStats = [
-    { label: "Projects Completed", value: "25+" },
-    { label: "Technologies Mastered", value: "15+" },
+    { label: "Projects Completed", value: "5+" },
+    { label: "Technologies Mastered", value: "10+" },
     { label: "Lines of Code", value: "100K+" },
     { label: "Coffee Consumed", value: "∞" }
   ];
